@@ -1,4 +1,4 @@
-# Hi, I'm David
+# Hi, I'm David!
 
 👋 Currently attending a coding bootcamp at UC Berkeley.
 
