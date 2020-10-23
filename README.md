@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm David
 
-<!--
-**anusontarangkul/anusontarangkul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Currently attending a coding bootcamp at UC Berkeley.
 
-Here are some ideas to get you started:
+👨🏻‍💻 Constantly learning about new technologies and working on interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduated from the University of Florida with a Bachelor's degree in Finance and Master's degree in International Business.
+
+🔥 Professional work experience in accounting, ecommerce, and promoting.
+
+🌱 **Looking for a full time software developement position!**
+
+📫 How to contact me:
+
+- anusontarangkul.d@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/anusontarangkul/)
+
+⚡️ Fun Fact: I studied abroad in Thailand and Hong Kong!
