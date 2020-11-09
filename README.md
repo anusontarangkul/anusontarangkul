@@ -1,4 +1,4 @@
-# Hi, I'm David
+# Hi, I'm David!
 
 ![gif](portfolio-gif.gif)
 
@@ -10,7 +10,7 @@
 
 🔥 Professional work experience in accounting, ecommerce, and promoting.
 
-🌱 **Looking for a full time software developement position!**
+🌱 **Looking for a full time software development position!**
 
 📫 How to contact me:
 
