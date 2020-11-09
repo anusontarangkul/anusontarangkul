@@ -1,5 +1,7 @@
 # Hi, I'm David
 
+![gif](portfolio-gif.gif)
+
 👋 Currently attending a coding bootcamp at UC Berkeley.
 
 👨🏻‍💻 Constantly learning about new technologies and working on interesting projects.
