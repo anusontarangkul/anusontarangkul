@@ -1,6 +1,6 @@
 # Hi, I'm David!
 
-👋&nbsp; Successfully completed an intensive full stack coding bootcamp at UC Berkeley.
+👨‍💻&nbsp; Successfully completed an intensive full stack coding bootcamp at UC Berkeley.
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
 
