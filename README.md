@@ -1,6 +1,6 @@
 # Hi, I'm David!
 
-👨‍💻&nbsp; Successfully completed an intensive full stack coding bootcamp at UC Berkeley.
+👨‍💻&nbsp; Successfully completed an intensive 250hr+ full stack coding bootcamp at UC Berkeley.
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
 
@@ -8,12 +8,16 @@
 
 🎓&nbsp; Graduated from the University of Florida with a Bachelor's degree in Finance and Master's degree in International Business.
 
-🔥&nbsp; Professional work experience in accounting, ecommerce, and promoting. Learn more on [LinkedIn](https://www.linkedin.com/in/anusontarangkul/)
+⚡️&nbsp; Professional work experience in accounting, ecommerce, and promoting. Learn more on [LinkedIn](https://www.linkedin.com/in/anusontarangkul/)
 
-🌱&nbsp; **Looking for a full time software development position!**
+✅&nbsp; **Key Javascript Skills:** ES6, OOP, DOM, Scope, IIFE, Hoisting, Closures, Callbacks, Promises, and Async & Await.
+
+🔥&nbsp; **Key React Skills:** Hooks, Components, JSX, Props, State, Props, Handling Events, and Lifecycle Methods.
+
+🌱&nbsp; **Looking for a full time software developer position (willing to work with any programming language)!**
 
 📫&nbsp; How to contact me:
 
 - anusontarangkul.d@gmail.com
 
-⚡️&nbsp; Fun Fact: I studied abroad in Thailand and Hong Kong!
+🌎&nbsp; Fun Fact: I studied abroad in Thailand and Hong Kong!
