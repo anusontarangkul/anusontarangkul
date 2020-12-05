@@ -10,9 +10,9 @@
 
 ⚡️&nbsp; Professional work experience in accounting, ecommerce, and promoting. Learn more on [LinkedIn](https://www.linkedin.com/in/anusontarangkul/)
 
-✅&nbsp; **Key Javascript Skills:** ES6, OOP, DOM, Scope, IIFE, Hoisting, Closures, Callbacks, Promises, and Async & Await.
+✅&nbsp; **Javascript Skills:** ES6, OOP, DOM, Scope, IIFE, Hoisting, Closures, Callbacks, Promises, and Async & Await.
 
-🔥&nbsp; **Key React Skills:** Hooks, Components, JSX, Props, State, Props, Handling Events, and Lifecycle Methods.
+🔥&nbsp; **React Skills:** Hooks, Components, JSX, Props, State, Props, Handling Events, and Lifecycle Methods.
 
 🌱&nbsp; **Looking for a full time software developer position (willing to work with any programming language)!**
 
