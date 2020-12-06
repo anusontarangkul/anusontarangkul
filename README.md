@@ -14,7 +14,9 @@
 
 🔥&nbsp; **React Skills:** Hooks, Components, JSX, Props, State, Props, Handling Events, and Lifecycle Methods.
 
-🌱&nbsp; **Looking for a full time software developer position (willing to work with any programming language)!**
+🌱&nbsp; **Looking for a full time software developer position!**
+
+📘&nbsp; [Portfolio](https://anusontarangkul.netlify.app/)
 
 📫&nbsp; How to contact me:
 
