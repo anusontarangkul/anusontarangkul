@@ -8,13 +8,19 @@
 
 🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
 
-🎓&nbsp; Graduated from the University of Florida with a Bachelor's degree in Finance and Master's degree in International Business.
+## Technologies: 
 
-⚡️&nbsp; Professional work experience in accounting, ecommerce, and promoting. Learn more on [LinkedIn](https://www.linkedin.com/in/anusontarangkul/)
+🔹&nbsp;  **Front End Skills:** HTML, CSS, and JavaScript.
 
-✅&nbsp; **Javascript Skills:** ES6, OOP, DOM, Scope, IIFE, Hoisting, Closures, Callbacks, Promises, and Async & Await.
+🔸&nbsp;  **Front End Framework/Libraries:**  ReactJS, jQuery, and Apollo Client (GraphQL).
 
-🔥&nbsp; **React Skills:** Hooks, Components, JSX, Props, State, Props, Handling Events, and Lifecycle Methods.
+🔹&nbsp;  **Back End Skills:** Node.js, REST API, and GraphQL.
+
+🔸&nbsp;  **Back End Framework:** Express.
+
+🔹&nbsp;  **Database:** MySQL and MongoDB.
+
+🔸&nbsp;  **Testing:** Jest.
 
 📘&nbsp; [Portfolio](https://anusontarangkul.netlify.app/)
 
