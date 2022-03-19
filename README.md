@@ -30,7 +30,9 @@
 
 🔸&nbsp;  **Agile Development:** Code reviews, stand ups, sprints, and version control (git).
 
-📘&nbsp; [Portfolio](https://anusontarangkul.netlify.app/)
+## Contact: 
+
+📘&nbsp; [Portfolio](https://anusontarangkul.github.io/portfolio-anusontarangkul/)
 
 📫&nbsp; How to contact me:
 
