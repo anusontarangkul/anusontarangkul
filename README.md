@@ -8,19 +8,27 @@
 
 🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
 
-## Technologies: 
+## Skills: 
 
-🔹&nbsp;  **Front End Skills:** HTML, CSS, and JavaScript.
+🔹&nbsp;  **Front End Languages** HTML, CSS, and JavaScript.
 
-🔸&nbsp;  **Front End Framework/Libraries:**  ReactJS, jQuery, and Apollo Client (GraphQL).
+🔸&nbsp;  **Front End Framework/Libraries:** React.js, Next.js, jQuery, and Apollo Client.
 
-🔹&nbsp;  **Back End Skills:** Node.js, REST API, and GraphQL.
+🔹&nbsp;  **State Management:** Redux (Toolkit).
 
-🔸&nbsp;  **Back End Framework:** Express.
+🔸&nbsp;  **CSS Libraries:** Bootstrap, Tailwind, Bulma, and Material UI.
 
-🔹&nbsp;  **Database:** MySQL and MongoDB.
+🔹&nbsp;  **Authentication:** Firebase/auth, JSON Web Tokens, and sessions.
 
-🔸&nbsp;  **Testing:** Jest.
+🔸&nbsp;  **Back End Language:** Node.js, SQL, and GraphQL.
+
+🔹&nbsp;  **Back End Frameworks:** Firebase, Express.js, and Apollo Server.
+
+🔸&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose), and Firestore.
+
+🔹&nbsp;  **Testing:** Jest.
+
+🔸&nbsp;  **Agile Development:** Code reviews, stand ups, sprints, and version control (git).
 
 📘&nbsp; [Portfolio](https://anusontarangkul.netlify.app/)
 
