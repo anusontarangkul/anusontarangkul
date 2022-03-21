@@ -28,7 +28,7 @@
 
 🔹&nbsp;  **Testing:** Jest.
 
-🔸&nbsp;  **Agile Development:** Code reviews, stand ups, sprints, and version control (git).
+🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
 ## Contact: 
 
