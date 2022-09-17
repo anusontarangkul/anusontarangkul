@@ -1,12 +1,23 @@
 # Hi, I'm David!
 
-## **Looking for a full time software developer position!**
+## About
 
 👨‍💻&nbsp; Successfully completed an intensive 250hr+ full stack coding bootcamp at UC Berkeley.
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
 
 🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
+
+## Experience: 
+
+🔴&nbsp; Software Engineering Apprenticship at Twilio.
+
+🟠&nbsp; Software Engineering Internship at Tapply.
+
+🟣&nbsp; Senior Learning Assistant at 2U.
+
+🟢&nbsp; Learning Assistant at 2U.
+
 
 ## Skills: 
 
