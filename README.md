@@ -20,13 +20,13 @@
 
 🔹&nbsp;  **Authentication:** Firebase/auth, JSON Web Tokens, and sessions.
 
-🔸&nbsp;  **Back End Language:** Node.js, SQL, and GraphQL.
+🔸&nbsp;  **Back End Language:** Java, Node.js, SQL, and GraphQL.
 
-🔹&nbsp;  **Back End Frameworks:** Firebase, Express.js, and Apollo Server.
+🔹&nbsp;  **Back End Frameworks:** Dropwizard, Firebase, Express.js, and Apollo Server.
 
 🔸&nbsp;  **Databases:** MySQL (Sequelize), MongoDB (Mongoose), and Firestore.
 
-🔹&nbsp;  **Testing:** Jest.
+🔹&nbsp;  **Testing:** Jest, JUnit, Mockito, and Axios Mock Adapter.
 
 🔸&nbsp;  **Agile Development:** Code reviews, user stories, stand ups, sprints, and version control (git).
 
