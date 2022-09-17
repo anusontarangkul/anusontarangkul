@@ -6,7 +6,7 @@
 
 📹&nbsp; Coding content creator [YouTube](https://www.youtube.com/channel/UCYBwball06AdVuaHeH7adVw?view_as=subscriber)
 
-🐦&nbsp; Tweeting about my coding journey [@coding_david](https://twitter.com/coding_david)
+📍&nbsp; Based in Las Vegas, NV.
 
 ## Experience: 
 
