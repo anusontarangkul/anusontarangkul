@@ -10,7 +10,7 @@
 
 ## Experience: 
 
-🔴&nbsp; Software Engineering Apprenticship at Twilio.
+🔴&nbsp; Software Engineering at Twilio.
 
 🟠&nbsp; Software Engineering Internship at Tapply.
 
